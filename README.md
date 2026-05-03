@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 40px;">Hi 👋, I'm Mahesh Chaudhari</h1>
+<h1 align="center" style="font-size: 40px;">Hi 👋 I'm Mahesh Chaudhari</h1>
 
 <p align="center" style="font-size: 18px;">
 A Passionate Data Science & AI Enthusiast From India 🇮🇳
