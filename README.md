@@ -9,7 +9,7 @@ A Passionate Data Science & AI Enthusiast From India 🇮🇳
 <h2 align="center">📫 How To Reach Me</h2>
 
 <p align="center">
-📧 <a href="mailto:mahesh.chaudhari.ds@gmail.com">maheshchaudhari1219@gmail.com</a> <br><br>
+📧 <a href="mailto:mahesh.chaudhari.ds@gmail.com">mahesh.chaudhari.ds@gmail</a> <br><br>
 
 <a href="mailto:mahesh.chaudhari.ds@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
